@@ -3,9 +3,13 @@
 This repository takes data from new job listings and analyzes the requirements that employers are looking for so job seekers are able to match their educational goals with in demand skill sets.  
 
 ## Table Of Contents
-* [Process](#process-subject-to-change)
-* [Goal](#goal)
-* [Contact Us](#get-involved)
+- [Maine WIT Job Listing Skills Scraper](#maine-wit-job-listing-skills-scraper)
+  - [Overview](#overview)
+  - [Table Of Contents](#table-of-contents)
+  - [Process (subject to change)](#process-subject-to-change)
+  - [Goal](#goal)
+  - [Get Involved!](#get-involved)
+  - [Collaborators](#collaborators)
 
 ## Process (subject to change)
 
@@ -31,3 +35,7 @@ As this is our first project we intend to refine this so keep checking back!
 
 ## Get Involved! 
 Are you a woman in Maine and have an idea to make this project great or would like to get involved feel free to send an [email](info@mainewit.org) or check out our [website](https://www.mainewit.org/)
+
+## Collaborators 
+
+[Heidi Bouchard](https://github.com/HBouchard5) [Erin Pryor](https://github.com/ErinP123)
